@@ -1,0 +1,65 @@
+https://drive.google.com/file/d/1VxIHYarL5SyIb4ThEisW6_hHJLhBd3aH/view?usp=sharing            ------Bug report Dmitry Narushevich
+
+ID-B1
+Summary: The application is launched in minimized mode.
+Description: The application is launched in minimized mode in the left corner. 
+Reprodused on: Windows 7Max (x64) 6.1 build (7601) Actual result: The application is launched in minimized mode. Expected result: the application opens in expanded mode
+Step to reproduce: 1. Launch the application 2. The application started in minimized mode."
+Severity: minor	
+Priority: low
+Reproducibility: always
+Symptom: GUI error
+Workaround: no	
+Status: new
+
+
+ID-B2
+Summary: Field pressing the "C" button I / O field remains empty no blinking pointer
+Description: Field pressing the ""C"" button I / O field remains empty no blinking pointer.
+Reprodused on: Windows 7Max (x64) 6.1 build (7601) Actual result:  I / O field is empty. Expected result: a blinking pointer in the I / O field
+Step to reproduce: 1. Launch the application 2. The input / output field is empty"
+Severity: minor	
+Priority: low
+Reproducibility: always
+Symptom: GUI error
+Workaround: no	
+Status: new
+
+
+ID-B3
+Summary: Incorrect application font.
+Description: "The number ""2"" on the number button has a font different from the rest of the buttons.
+Reprodused on: Windows 7Max (x64) 6.1 build (7601) Actual result: incorrect font and size. Expected result: The font size and size of all captions and buttons must be the same.
+Step to reproduce: 1. Launch the application 2. The application displays buttons with incorrect sizes and fonts: ""2"", ""-"" * "
+Severity: minor	
+Priority: low
+Reproducibility: always
+Symptom: GUI error
+Workaround: no	
+Status: new
+
+ID-B4
+Summary: Incorrect arrangement of function block buttons.	
+Description: The functional block of buttons is shifted upward relative to the digital block, the ""*"" button has a different size from the rest of the buttons.
+Reprodused on: Windows 7Max (x64) 6.1 build (7601) Actual result: incorrect font and size. Expected result: The font size and size of all captions and buttons must be the same.
+Step to reproduce: 1. Launch the application 2. The application displays buttons with incorrect sizes: "" * ""."	
+Severity:  minor	
+Priority:low	
+Reproducibility: always
+Symptom: GUI error	
+Workaround: no
+Attachment: https://drive.google.com/file/d/1TmQ-xrpIvIGW3LvIo-yzGDt7MJdVe5S1/view?usp=sharing	
+Status: new
+
+ID-B5
+Summary: When you click on the application in the area of the digital block, it closes.	
+Description: When you click in the free area of the digital block of the application, an error message appears, when you click again, an error message appears and the application is closed further.
+Reprodused on: Windows 7Max (x64) 6.1 build (7601) Actual result:  error when entering a free area of a digital block. Expected result: when you click in the free area of the digital block, nothing happens
+Step to reproduce: 1. Launch the application 2. Press in the empty area of the numeric buttons 3. Press in the empty area of the numeric buttons
+Severity:	minor
+Priority: medium
+Reproducibility: always	
+Symptom: implementation of the program code
+Workaround: no	
+Attachment: https://drive.google.com/file/d/1ZygXSO42x2dOJso_tETNqswDyWskKAUY/view?usp=sharing
+Status: new
